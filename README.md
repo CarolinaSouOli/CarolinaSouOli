@@ -1,8 +1,9 @@
 ## Oii! Eu sou Carolina Oliveira
 
-- 🌱 I’m currently learning  Java/Python/C#
-- 📫 How to reach me: csocarol13@gmail.com
-- 😄 Pronouns: ela/dela
+- 🌱 Atualmente estou aprendendo: Java/Python/C#
+- 📫 Como entrar em contato comigo: csocarol13@gmail.com
+- 😄 Pronomes: ela/dela
+
 
    <div>
   <a href="https://github.com/CarolinaSouOli">
